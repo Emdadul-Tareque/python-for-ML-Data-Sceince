@@ -1,0 +1,13 @@
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root INFO loop start and list is [1, 2, 3, 4, 5, 6, [1, 2, 3, 'Tareque'], 'Emdadul', 'Tareque']
+(asctime)s root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+(asctime)s root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+(asctime)s root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+(asctime)s root ERROR Invalid alias: The name man can't be aliased because it is another magic command.

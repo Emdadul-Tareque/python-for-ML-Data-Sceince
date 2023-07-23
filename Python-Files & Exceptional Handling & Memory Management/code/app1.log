@@ -1,0 +1,31 @@
+2023-07-23 17:14:31,142 root INFO loop start in 1 time
+2023-07-23 17:14:31,142 root INFO ----------------------------------
+2023-07-23 17:14:31,142 root INFO In first loop: 1 is integer and apppend in [1]
+2023-07-23 17:14:31,143 root INFO loop start in 2 time
+2023-07-23 17:14:31,143 root INFO ----------------------------------
+2023-07-23 17:14:31,143 root INFO In first loop: 2 is integer and apppend in [1, 2]
+2023-07-23 17:14:31,143 root INFO loop start in 3 time
+2023-07-23 17:14:31,143 root INFO ----------------------------------
+2023-07-23 17:14:31,143 root INFO In first loop: 3 is integer and apppend in [1, 2, 3]
+2023-07-23 17:14:31,143 root INFO loop start in 4 time
+2023-07-23 17:14:31,143 root INFO ----------------------------------
+2023-07-23 17:14:31,143 root INFO In first loop: 4 is integer and apppend in [1, 2, 3, 4]
+2023-07-23 17:14:31,143 root INFO loop start in 5 time
+2023-07-23 17:14:31,143 root INFO ----------------------------------
+2023-07-23 17:14:31,143 root INFO In first loop: 5 is integer and apppend in [1, 2, 3, 4, 5]
+2023-07-23 17:14:31,143 root INFO loop start in 6 time
+2023-07-23 17:14:31,143 root INFO ----------------------------------
+2023-07-23 17:14:31,143 root INFO In first loop: 6 is integer and apppend in [1, 2, 3, 4, 5, 6]
+2023-07-23 17:14:31,143 root INFO loop start in 7 time
+2023-07-23 17:14:31,143 root INFO ----------------------------------
+2023-07-23 17:14:31,143 root INFO [1, 2, 3, 'Tareque'] is list and the programming is entering a new loop
+2023-07-23 17:14:31,144 root INFO In 2nd loop: [1, 2, 3, 'Tareque'] is integer and apppend in [1, 2, 3, 4, 5, 6, 1]
+2023-07-23 17:14:31,144 root INFO In 2nd loop: [1, 2, 3, 'Tareque'] is integer and apppend in [1, 2, 3, 4, 5, 6, 1, 2]
+2023-07-23 17:14:31,144 root INFO In 2nd loop: [1, 2, 3, 'Tareque'] is integer and apppend in [1, 2, 3, 4, 5, 6, 1, 2, 3]
+2023-07-23 17:14:31,144 root INFO In 2nd loop: [1, 2, 3, 'Tareque'] is string and apppend in ['Tareque']
+2023-07-23 17:14:31,144 root INFO loop start in 8 time
+2023-07-23 17:14:31,144 root INFO ----------------------------------
+2023-07-23 17:14:31,144 root INFO In first loop: Emdadul is integer and apppend in [1, 2, 3, 4, 5, 6, 1, 2, 3]
+2023-07-23 17:14:31,144 root INFO loop start in 9 time
+2023-07-23 17:14:31,144 root INFO ----------------------------------
+2023-07-23 17:14:31,144 root INFO In first loop: Tareque is integer and apppend in [1, 2, 3, 4, 5, 6, 1, 2, 3]
