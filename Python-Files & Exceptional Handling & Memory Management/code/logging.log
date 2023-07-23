@@ -1,0 +1,25 @@
+2023-07-23 14:59:11,065 pickle loaded: /snap/jupyter/6/lib/python3.7/logging/__init__.py
+2023-07-23 14:59:47,594 diff parser start
+2023-07-23 14:59:47,595 line_lengths old: 1; new: 3
+2023-07-23 14:59:47,595 -> code[replace] old[1:1] new[1:3]
+2023-07-23 14:59:47,595 parse_part from 1 to 3 (to 2 in part parser)
+2023-07-23 14:59:47,595 diff parser end
+2023-07-23 14:59:56,440 This is my info logging
+2023-07-23 14:59:56,440 This is my error msg
+2023-07-23 14:59:56,440 This is my critical msg
+2023-07-23 15:00:33,103 This is my info logging
+2023-07-23 15:00:33,103 This is my error msg
+2023-07-23 15:00:33,103 This is my critical msg
+2023-07-23 15:01:20,408 This is my info logging
+2023-07-23 15:01:20,408 This is my error msg
+2023-07-23 15:01:20,409 This is my critical msg
+2023-07-23 15:01:23,437 diff parser start
+2023-07-23 15:01:23,437 line_lengths old: 3; new: 1
+2023-07-23 15:01:23,438 -> code[replace] old[1:3] new[1:1]
+2023-07-23 15:01:23,438 parse_part from 1 to 1 (to 0 in part parser)
+2023-07-23 15:01:23,438 diff parser end
+2023-07-23 15:01:28,063 diff parser start
+2023-07-23 15:01:28,063 line_lengths old: 1; new: 1
+2023-07-23 15:01:28,063 -> code[replace] old[1:1] new[1:1]
+2023-07-23 15:01:28,063 parse_part from 1 to 1 (to 0 in part parser)
+2023-07-23 15:01:28,064 diff parser end

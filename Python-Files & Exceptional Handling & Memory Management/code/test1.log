@@ -1,0 +1,10 @@
+INFO:root:This is information message
+WARNING:root:This is warning message
+INFO:root:This is information message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+CRITICAL:root:This is critical message
+ERROR:root:Invalid alias: The name clear can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name more can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name less can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name man can't be aliased because it is another magic command.
